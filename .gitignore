@@ -6,3 +6,6 @@
 /Vagrantfile.local
 recipes/cookbooks/
 recipes/tmp/
+
+/project-stub/*
+!/project-stub/.gitkeep
